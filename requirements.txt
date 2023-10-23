@@ -1,0 +1,11 @@
+presidio-analyzer
+presidio-anonymizer
+pyahocorasick==1.4.4
+hebspacy==0.1.7
+sentencepiece==0.1.96
+spacy==3.2.2
+spacy-transformers==1.1.4
+tokenizers==0.9.4
+transformers==4.2.2
+torch==1.7.1
+typing_extensions==4.5.0

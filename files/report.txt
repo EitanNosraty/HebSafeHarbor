@@ -1,0 +1,5 @@
+Entity: PERS, Strat: 4, End: 15, Score: 0.9999921321868896
+Entity: ISRAELI_ID_NUMBER, Strat: 47, End: 56, Score: 1.0
+Entity: ID, Strat: 72, End: 79, Score: 0.6
+Entity: EMAIL_ADDRESS, Strat: 86, End: 106, Score: 1.0
+Entity: ID, Strat: 115, End: 125, Score: 0.6
